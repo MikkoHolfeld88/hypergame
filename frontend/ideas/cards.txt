@@ -1,5 +1,3 @@
------
-
 Yetis 
 
 Baby-Yeti
@@ -63,5 +61,28 @@ Todesritter
 AS: 18
 E: Ist bereits Tod und fürchtet deswegen keinen Kampf
 
+Jäger
+AS: 10
+E: Spezialisiert auf die Hexenjagt. Schwächt Zauberer -3
+
+Die Hure
+AS: 1
+E: Verbreitet syphilis. Alle männlichen Gegner -6
+
 -----
+
+Zauberer
+
+Merlin
+AS:  10
+E: Nutzt die vom Gegner am stärksten gelegte Karte gegen ihn
+
+Sabrina:
+AS: 5
+E: Verzückt mit ihrem Anblick und bekommt keinen Schaden
+
+
+Leolingo:
+AS: 10
+E: Verzaubert den Gegner und erhöht Schaden um 5
 
