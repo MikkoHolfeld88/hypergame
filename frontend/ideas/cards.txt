@@ -1,0 +1,67 @@
+-----
+
+Yetis 
+
+Baby-Yeti
+AS: 1
+E: niemand traut sich so ein süßes Wesen anzugreifen -> 
+schwächster Angriff des Gegners wird um 10 verringert
+
+
+Yeti-Horde
+AS: 15
+E: 15 kleine Yetis sind nur zusammen stark ->
+wenn kein anderer Yeti am Angriff teilnimmt, AS -10
+
+Yeti
+AS: 8
+E: Yeti wäre am liebsten allein ->
+nichts geschieht
+
+-----
+
+Elfen
+
+
+Undulf
+AS: 0
+E: Zufall. Bei  Kopf: Gegnerschaden wird auf 0 gesetzt. Bei Zahl: Gegenrschaden wird um 8 erhöht.
+
+Lundrich
+AS: 6
+E: Sperrt ein vom Spieler ausgewähltes Monster des Gegners für seinen nächsten Spielzug.
+
+Alfons
+A: 12
+E:  Verdeckt dem Gegner  die eigenen in der nächsten Runde gelegten Karten.
+
+-----
+
+Menschen
+
+Langschwert Ritter
+AS: 15
+E: Doppelter Schaden gegen Drachen
+
+Armbrust Schütze 
+AS: 4
+E: Gelegte Schützen Mutiplizieren sich auf
+
+Bauer
+AS: 5
+E: Ruft eine wütende Aufstand herbei -> pro weggelegt Karte +4
+
+Spion
+AS: 10
+E: Mische die Handkarten des Gegners und schaue dir die obersten drei an.
+
+Mönch
+AS: 3
+E: Bekehrt ein Kobold des Gegeners
+
+Todesritter
+AS: 18
+E: Ist bereits Tod und fürchtet deswegen keinen Kampf
+
+-----
+
