@@ -6,4 +6,8 @@
 
 ## running
 
-   run backend with `npm start`
+    run backend with `npm start`
+
+## show
+
+    for backend go on localhost:3000
