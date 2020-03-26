@@ -86,3 +86,7 @@ Leolingo:
 AS: 10
 E: Verzaubert den Gegner und erhöht Schaden um 5
 
+Semphira
+AS: 5
+E: Verzaubert Ritter mit Sirenengesang und schwächt um 10
+
